@@ -6,7 +6,8 @@ This script takes two numbers as input from the user and performs the following 
 - Addition
 - Subtraction
 - Multiplication
-- Division  
+- Division
+ 
 **Expected Output:**  
 Enter the first number: 15  
 Enter the second number: 5  
