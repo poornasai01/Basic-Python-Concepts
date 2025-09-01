@@ -23,8 +23,8 @@ Division:  3.0
 This script takes the user's first name and last name as input, combines them into a full name, and prints a personalized greeting.
 
 **Expected Output:**
-Enter your first name: sai
-Enter your last name: chowdary
+Enter your first name: sai  
+Enter your last name: chowdary  
 
-Hello, saichowdary! Welcome to the tute dude
+Hello, saichowdary! Welcome to the tute dude  
 
