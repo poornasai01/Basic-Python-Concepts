@@ -7,5 +7,11 @@ This script takes two numbers as input from the user and performs the following 
 - Subtraction
 - Multiplication
 - Division
-Program:
+Expected Output:
+Enter the first number: 15
+Enter the second number: 5
+Addition:  20
+Subtraction:  10
+Multiplication:  75
+Division:  3.0
 
