@@ -22,7 +22,7 @@ Division:  3.0
 **Description:**
 This script takes the user's first name and last name as input, combines them into a full name, and prints a personalized greeting.
 
-**Expected Output:**
+**Expected Output:**  
 Enter your first name: sai  
 Enter your last name: chowdary  
 
